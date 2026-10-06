@@ -1,0 +1,6 @@
+{
+  "name": "NagarMitra",
+  "description": "Bilingual civic reporting and municipal response platform with distinct experiences for citizens, government employees, and field workers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
